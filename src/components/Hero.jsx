@@ -10,6 +10,7 @@ export function Hero() {
           <span aria-hidden="true" />
           Available for frontend and full-stack roles
         </span>
+        <br/>
         <p className="eyebrow">{profile.role}</p>
         <h1>{profile.headline}</h1>
         <p className="hero-summary">{profile.summary}</p>

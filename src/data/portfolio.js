@@ -94,6 +94,7 @@ export const projects = [
       'Reduced order latency by 40% through optimized service layers and dependency injection.',
       'Achieved 90%+ unit test coverage for trading services and high-volume transaction accuracy.',
     ],
+    link: 'https://github.com/Yash4681/Stock_Trading_App'
   },
   {
     title: 'Person & Country Management System',
@@ -105,6 +106,7 @@ export const projects = [
       'Automated Excel, CSV, and PDF import/export, cutting manual data-entry effort by 80%.',
       'Applied service-based architecture and dependency injection for maintainability and scale.',
     ],
+    link: 'https://github.com/Yash4681/Person-Country-Management-System'
   },
 ]
 

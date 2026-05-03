@@ -8,6 +8,7 @@ export function Projects() {
       <div className="projects-grid">
         {projects.map((project) => (
           <article className="project-card" key={project.title}>
+            <a target='blank' href={project.link}>
             <div className="project-icon">
               <Icon name="code" />
             </div>
@@ -23,6 +24,7 @@ export function Projects() {
                 <li key={item}>{item}</li>
               ))}
             </ul>
+            </a>
           </article>
         ))}
       </div>

@@ -8,7 +8,7 @@ export function About() {
         <div className="glass-panel about-copy">
           <p>{profile.summary}</p>
           <p>
-            He brings together backend engineering, responsive front-end development, data performance,
+            I bring together backend engineering, responsive front-end development, data performance,
             and automated quality practices to deliver business-critical features in Agile environments.
           </p>
         </div>
