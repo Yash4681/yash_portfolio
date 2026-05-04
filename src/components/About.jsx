@@ -3,7 +3,7 @@ import { Section } from './Section'
 
 export function About() {
   return (
-    <Section id="about" eyebrow="Profile" title="About Yash">
+    <Section id="about" eyebrow="Profile" title="About Me">
       <div className="about-grid">
         <div className="glass-panel about-copy">
           <p>{profile.summary}</p>
